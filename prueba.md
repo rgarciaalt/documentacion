@@ -1,1 +1,1 @@
-este es un fichero creado en visual studio coreg
+este es un fichero creado en visual studio core version 3
