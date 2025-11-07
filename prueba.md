@@ -1,1 +1,1 @@
-este es un fichero creado en visual studio coe
+este es un fichero creado en visual studio core
